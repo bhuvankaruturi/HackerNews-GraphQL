@@ -1,1 +1,1 @@
-### Hacker News Clone from HOW TO GRAPHQL
+### Hacker News Clone from How To GraphQL
